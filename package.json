@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/MacMcIrish/nourish-bot#readme",
   "devDependencies": {
-    "js-gardener": "1.10.12",
+    "js-gardener": "1.10.13",
     "coveralls": "3.0.0",
     "semantic-release": "11.0.2"
   },
