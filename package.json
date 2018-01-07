@@ -35,5 +35,7 @@
   "files": [
     "lib"
   ],
-  "dependencies": {}
+  "dependencies": {
+    "lambda-rollbar": "^1.7.7"
+  }
 }

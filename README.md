@@ -6,5 +6,6 @@
 [![Downloads](https://img.shields.io/npm/dt/nourish.svg)](https://www.npmjs.com/package/nourish)
 [![Semantic-Release](https://github.com/simlu/js-gardener/blob/master/assets/icons/semver.svg)](https://github.com/semantic-release/semantic-release)
 [![Gardener](https://github.com/simlu/js-gardener/blob/master/assets/badge.svg)](https://github.com/simlu/js-gardener)
-[![Gitter](https://github.com/simlu/js-gardener/blob/master/assets/icons/gitter.svg)](https://gitter.im/MacMcIrish/nourish)# nourish-bot
+[![Gitter](https://github.com/simlu/js-gardener/blob/master/assets/icons/gitter.svg)](https://gitter.im/MacMcIrish/nourish)
+# nourish-bot
 Slackbot integration for pulling Nourish info
